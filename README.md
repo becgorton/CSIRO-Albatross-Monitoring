@@ -5,6 +5,7 @@ Remote monitoring of the Albatross Island shy albatross colony is possible with 
 The system captures and transmits high-resolution images daily, providing a continuous visual record of colony health and activity. 
 Several indices are derived from these images, and provided in near-real time to allow early warning of unusual changes in abundance of nesting and attending adults and chicks.
 
+---
 
 ## Daily Images
 
@@ -33,3 +34,21 @@ Several indices are derived from these images, and provided in near-real time to
   </tr> 
   
 </table>
+
+--- 
+
+## Contact
+
+For information about this work, please contact:
+- **Alistair Hobday**  
+  *Chief Research Scientist, CSIRO*  
+  Email: [alistair.hobday@csiro.au](mailto:alistair.hobday@csiro.au)
+
+---
+
+## Acknowledgments
+
+
+--- 
+
+<a href = "https://www.csiro.au/en/about/Policies/Legal/Copyright">Copyright</a> | <a href = "https://www.csiro.au/en/about/Policies/Legal/Legal-notice">Legal notice and disclaimer</a>
